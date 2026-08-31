@@ -151,3 +151,11 @@ Runs end to end on 32,232 real visits, trained on 2021 and tested on 2022. **Not
 deployable.** Paediatric undertriage is 23.1% against 5.7% for adults, and walk-in
 patients are undertriaged 12× more than ambulance arrivals. Both are release gates.
 See [docs/EVALUATION.md](docs/EVALUATION.md).
+
+## Team
+
+**Why Not?** — Accenture Innovation Challenge.
+
+- **Aryan Sambare** — team leader
+- **Krunal Baraskar**
+- **Parth Ganjewar**
